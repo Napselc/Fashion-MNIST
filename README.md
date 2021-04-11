@@ -40,5 +40,8 @@ Model Summary:
 
 ![image](https://user-images.githubusercontent.com/31684198/114301429-7586ff80-9ae2-11eb-8828-178bf3055a85.png)
 
+Results:
+
+Testing Set Accuracy: 0.8838
          
         
